@@ -1,0 +1,11 @@
+# GitHub Pages configuration for static HTML site
+# This tells GitHub Pages to serve the files directly without Jekyll processing
+
+# Disable Jekyll processing
+plugins: []
+
+# Include all files
+include: ["*"]
+
+# Exclude nothing
+exclude: []
